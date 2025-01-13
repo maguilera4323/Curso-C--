@@ -1,0 +1,6 @@
+# Archivos temporales
+*.tmp
+*.bak
+*~
+# Archivos temporales generados por editores
+.vscode/
